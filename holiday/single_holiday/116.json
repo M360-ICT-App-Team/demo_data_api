@@ -1,0 +1,123 @@
+{
+    "success": true,
+    "message": "The request is OK",
+    "data": {
+        "id": 116,
+        "city_id": 10025,
+        "title": "Sajek Serenity Escape",
+        "details": null,
+        "tour_type": "domestic",
+        "duration": 2,
+        "adult_price": null,
+        "child_price": null,
+        "discount": null,
+        "discount_type": null,
+        "is_featured": false,
+        "valid_till_date": "2025-04-10T00:00:00.000Z",
+        "group_size": 11,
+        "status": true,
+        "created_by": 17,
+        "created_at": "2024-12-11T07:01:52.781Z",
+        "is_deleted": false,
+        "itinerary": "<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;;\"><strong><span style=\"font-size: 16px; background: white;\">Itinerary:</span></strong></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px;\"><strong>Day\r\n        1: &nbsp;</strong><strong><span style=\"font-family: Roboto-Regular, &quot;serif&quot;; background: white;\">Khagrachori-Sajek\r\n            Cottage</span><strong>-</strong></strong><strong><span style=\"font-family: Roboto-Regular, &quot;serif&quot;; background: white;\"> Kanglak Hill</span></strong></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; text-align: justify;\"><span style=\"font-family: Roboto-Regular, &quot;serif&quot;; background: white;\">Early Morning arrive Khagrachori take Breakfast then 8.00am\r\n        transfer to Sajek. In route 12.00 pm arrived Sajek check in hotel &amp;\r\n        refreshment 2.00 am take lunch then sightseeing at Kanglak Hill, and walk to,\r\n        BGB park, Halipad for sunset on the hill view. Over night at Sajek.</span></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px;\"><strong>Food:</strong> Breakfast: Yes, Lunch: Yes,\r\n    Dinner: Yes </p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; text-align: justify;\"><strong>Day 02: </strong><strong><span style=\"background: white;\">Sajek\r\n            Valley-</span></strong><span style=\"font-family: Roboto-Regular, &quot;serif&quot;; background: white;\"> <strong>Khagrachari</strong></span></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; text-align: justify;\"><span style=\"font-family: Roboto-Regular, &quot;serif&quot;; background: white;\">Breakfast at 8.00am After Breakfast check out at hotel then\r\n        start journey for Khagrachari arrive Kahgrachori 1.30 Pm check take lunch &amp;\r\n        sightseeing at Khagrachari Hanging Bridge, Alutila Natural Cave, Richang\r\n        Waterfall including trekking to waterfall after Diner transfer to Bus Counter\r\n        for Dhaka</span></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; text-align: justify;\"><strong>Food:</strong> Breakfast:\r\n    Yes, Lunch: Yes, Dinner: Yes</p>",
+        "cancellation_policy": "<p><br></p>",
+        "tax": "Excluded",
+        "general_condition": "<p><br></p>",
+        "installment": "<p><br></p>",
+        "b2b_adult_price": "7000.00",
+        "b2b_child_price": null,
+        "b2c_adult_price": "7000.00",
+        "b2c_child_price": null,
+        "b2b_discount": "0.00",
+        "b2c_discount": "0.00",
+        "b2b_discount_type": "PERCENTAGE",
+        "b2c_discount_type": "PERCENTAGE",
+        "type": "both",
+        "city_name": "Sajek",
+        "country_name": "BANGLADESH",
+        "photos": [
+            {
+                "id": 183,
+                "photo": "https://images.pexels.com/photos/2852395/pexels-photo-2852395.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "id": 184,
+                "photo": "https://images.pexels.com/photos/28672449/pexels-photo-28672449/free-photo-of-scenic-mountain-resort-with-traditional-huts.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "id": 185,
+                "photo": "https://images.pexels.com/photos/30615807/pexels-photo-30615807/free-photo-of-scenic-bamboo-hut-overlooking-lush-mountains.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "id": 186,
+                "photo": "https://images.pexels.com/photos/6871009/pexels-photo-6871009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            }
+        ],
+        "include_services": [
+            {
+                "id": 407,
+                "title": "Dhaka-Khagrachori-Dhaka  AC Bus Ticket "
+            },
+            {
+                "id": 408,
+                "title": "Cottage Accommodation as per the name mentioned in the Category for duration as mentioned in the itinerary."
+            },
+            {
+                "id": 409,
+                "title": "All applicable Transfers Khagrachori-Sajek Vally & Sightseeing by NON AC vehicle which will not be at disposal and will be exclusively used for the group as per the itinerary only (on point to point basis)."
+            },
+            {
+                "id": 410,
+                "title": "This vehicle will also change sector wise."
+            },
+            {
+                "id": 411,
+                "title": "Tour Spot Entry Fee."
+            }
+        ],
+        "exclude_services": [
+            {
+                "id": 412,
+                "title": "Tips to Guide & Driver"
+            },
+            {
+                "id": 413,
+                "title": "Any meals are other than those mentioned in Menu."
+            },
+            {
+                "id": 414,
+                "title": "Expenses caused by factors beyond our control like rail and flight delays, roadblocks, and vehicle mal-functions, political disturbances etc."
+            },
+            {
+                "id": 415,
+                "title": "Any services not specifically mentioned in the inclusions."
+            },
+            {
+                "id": 416,
+                "title": "If City / Resort Fees / Tourist taxes are applicable then the same will be Payable directly at hotel /Apartment."
+            }
+        ],
+        "highlight_services": [
+            {
+                "id": 417,
+                "title": "Journey Start:  At night by bus Dhaka to Khagrachori"
+            },
+            {
+                "id": 418,
+                "title": "Day 1:    Khagrachori-Sajek Cottage- Kanglak Hill"
+            },
+            {
+                "id": 419,
+                "title": "Day 2:  Sajek Valley- Khagrachari "
+            },
+            {
+                "id": 420,
+                "title": "Journey End:  At Morning in Dhaka"
+            }
+        ],
+        "reviews": {
+            "data": [],
+            "total": "0"
+        }
+    }
+}

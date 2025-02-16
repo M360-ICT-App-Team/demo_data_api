@@ -1,0 +1,159 @@
+{
+    "success": true,
+    "message": "The request is OK",
+    "data": {
+        "id": 112,
+        "city_id": 71,
+        "title": "Uniquely Singapore 4 Days 3 Night",
+        "details": null,
+        "tour_type": "international",
+        "duration": 4,
+        "adult_price": null,
+        "child_price": null,
+        "discount": null,
+        "discount_type": null,
+        "is_featured": false,
+        "valid_till_date": "2024-11-29T00:00:00.000Z",
+        "group_size": 2,
+        "status": true,
+        "created_by": 1,
+        "created_at": "2024-10-20T06:55:44.512Z",
+        "is_deleted": false,
+        "itinerary": "<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><strong><span style=\"font-size: 16px; padding: 0in;\">Day 1: Dhaka Airport to Changi International Airport Singapore</span></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><span style=\"font-size: 16px;\">Fly from Dhaka to Changi International Airport,\r\n        Singapore. Upon arrival at the Airport you will met to our local representative\r\n        who will transfer you to the Hotel. Check in to hotel. Free time.</span></p><p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; text-align: justify;\"><strong>Food:</strong> Breakfast:\r\n    No, Lunch: No, Dinner: No </p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><strong><span style=\"font-size: 16px; padding: 0in;\">Day 2: City experience Tour</span></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><span style=\"font-size: 16px;\">Enjoy breakfast at the hotel. After breakfast get\r\n        ready to explore City Tour. Overnight stay at Singapore.</span></p><p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; text-align: justify;\"><strong>Food:</strong> Breakfast: Yes, Lunch: No, Dinner: No </p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><strong><span style=\"font-size: 16px; padding: 0in;\">Day 3: Visit Universal Studios Singapore (With Standard ticket)</span></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><span style=\"font-size: 16px;\">Starting from 10AM -7PM, Go beyond the screen and Ride\r\n        The Movies™ at Universal Studios Singapore. Only here can you experience\r\n        cutting-edge rides, shows, and attractions based on your favorite blockbuster\r\n        films and television series, including TRANSFORMERS The Ride: The Ultimate 3D\r\n        Battle, Shrek 4-D Adventure, Madagascar: A Crate Adventure, Jurassic Park\r\n        Rapids Adventure, and more! Enter the thrilling world of movie magic as you\r\n        Ride the Movies on roller coasters and other movie-themed attractions. Be\r\n        dazzled and delighted by an immersive entertainment experience that brings the\r\n        silver screen to life.<br>\r\n        At evening, free time. Overnight stay at Hotel.</span></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><span style=\"font-size: 16px;\"><strong>Food:</strong> Breakfast: Yes, Lunch: No, Dinner: No</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><strong><span style=\"font-size: 16px; padding: 0in;\">Day 4: Singapore Hotel - Return to Dhaka</span></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><span style=\"font-size: 16px;\">Have breakfast at the hotel. Check out from hotel. Our\r\n        driver will pick you up from your hotel plenty of time before your flight to\r\n        Dhaka.</span></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><span style=\"font-size: 16px;\"><strong>Food:</strong> Breakfast: Yes, Lunch: No, Dinner: No</span></p>",
+        "cancellation_policy": "<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">Your\r\n    confirmation of the&nbsp;Holiday will ensure that you have read the\r\n    Cancellation Policy thoroughly and accepted it.</p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">15\r\n    days prior to the travel date - 50 % of total holiday cost.</p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">10\r\n    days prior to the travel date - 75 % of total holiday cost.</p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">05\r\n    days prior to the travel date &nbsp; - 100% of holiday cost will be\r\n    non-refundable.</p>",
+        "tax": "Excluded",
+        "general_condition": "<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><strong><u><span style=\"font-size: 16px; color: rgb(34, 34, 34);\">THE FOLLOWING\r\n                POINTS ARE TO BE NOTED FOR CHILD RATE</span></u></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px 0.5in; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><span style=\"font-size: 16px; color: rgb(34, 34, 34);\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children\r\n        above 10+ years will be charged 100% as per Adult Rate (EPSR)</span></p>\r\n\r\n<p style=\"margin-right: 0in; margin-left: 0in; font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"color: rgb(34, 34, 34);\"><br>\r\n    </span><strong><u><span style=\"color: black;\">THE FOLLOWING\r\n                POINTS ARE TO BE NOTED FOR CHILD RATE</span></u></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px 0.5in; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"font-size: 16px; color: black;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children\r\n        above 10+ years will be charged 100% as per Adult Rate (EPSR)</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px 0.5in; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"font-size: 16px; color: black;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children\r\n        of 5+ to 10 sharing parent’s room will be charged as per CWB or CNB</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px 0.5in; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"font-size: 16px; color: black;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children\r\n        below 5 years Complimentary</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><u><span style=\"font-size: 16px; color: black;\">(Hotels are very strict with the child\r\n            policy. Please carry the age proof so that it can be produced when asked for)</span></u></p>",
+        "installment": null,
+        "b2b_adult_price": "34500.00",
+        "b2b_child_price": null,
+        "b2c_adult_price": "34500.00",
+        "b2c_child_price": null,
+        "b2b_discount": "0.00",
+        "b2c_discount": "0.00",
+        "b2b_discount_type": "PERCENTAGE",
+        "b2c_discount_type": "PERCENTAGE",
+        "type": "both",
+        "city_name": "Singapore",
+        "country_name": "SINGAPORE",
+        "photos": [
+            {
+                "id": 160,
+                "photo": "https://images.unsplash.com/photo-1624003974266-7cdbf877ec00?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 161,
+                "photo": "https://images.unsplash.com/photo-1580437785988-b7d807224f22?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 162,
+                "photo": "https://images.unsplash.com/photo-1589848014442-5f540ff95bea?q=80&w=1484&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 163,
+                "photo": "https://images.unsplash.com/photo-1575273651223-f5aba8948659?q=80&w=1366&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 164,
+                "photo": "https://images.unsplash.com/photo-1546786522-2e465cfc203c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ],
+        "include_services": [
+            {
+                "id": 317,
+                "title": "Hotel Accommodation"
+            },
+            {
+                "id": 318,
+                "title": "Daily Buffet Breakfast at Hotel"
+            },
+            {
+                "id": 319,
+                "title": "Meal Included as per our itinerary"
+            },
+            {
+                "id": 320,
+                "title": "Airport to Hotel transfers on private Basis"
+            },
+            {
+                "id": 321,
+                "title": "English Speaking Guide Service"
+            },
+            {
+                "id": 322,
+                "title": "All Tours and sightseeing as per the itinerary."
+            },
+            {
+                "id": 323,
+                "title": "City experience Tour (SIC)"
+            },
+            {
+                "id": 324,
+                "title": "Visit Universal Studios Singapore - (SIC"
+            }
+        ],
+        "exclude_services": [
+            {
+                "id": 325,
+                "title": "Visas & Travel Tax"
+            },
+            {
+                "id": 326,
+                "title": "International Airfare"
+            },
+            {
+                "id": 327,
+                "title": "Departure COVID Test"
+            },
+            {
+                "id": 328,
+                "title": "Tips to Guide & Driver"
+            },
+            {
+                "id": 329,
+                "title": "Any meals are other than those mentioned in Menu."
+            },
+            {
+                "id": 330,
+                "title": "Any portage at border and hotels, tips, insurance, wine, mineral water, telephone charges, and all items of personal nature."
+            },
+            {
+                "id": 331,
+                "title": "Expenses caused by factors beyond our control like rail and flight delays, roadblocks, and vehicle mal-functions, political disturbances etc."
+            },
+            {
+                "id": 332,
+                "title": "Any services not specifically mentioned in the inclusions."
+            },
+            {
+                "id": 333,
+                "title": "If City / Resort Fees / Tourist taxes are applicable then the same will be Payable directly at hotel /Apartment."
+            },
+            {
+                "id": 334,
+                "title": "50% supplement for arrival/departure transfer between 2200 hrs - 0700 hrs"
+            }
+        ],
+        "highlight_services": [
+            {
+                "id": 335,
+                "title": "Day 01: Changi International Airport - Hotel Transfer"
+            },
+            {
+                "id": 336,
+                "title": "Day 2: City experience Tour"
+            },
+            {
+                "id": 337,
+                "title": "Day 3: Visit Universal Studios Singapore (With Standard ticket)"
+            },
+            {
+                "id": 338,
+                "title": "Day 04: Hotel - Changi International Airport (Singapore)"
+            }
+        ],
+        "reviews": {
+            "data": [],
+            "total": "0"
+        }
+    }
+}

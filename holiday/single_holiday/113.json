@@ -1,0 +1,155 @@
+{
+    "success": true,
+    "message": "The request is OK",
+    "data": {
+        "id": 113,
+        "city_id": 71,
+        "title": "Magical Singapore: 4 Day  3 Night",
+        "details": null,
+        "tour_type": "international",
+        "duration": 4,
+        "adult_price": null,
+        "child_price": null,
+        "discount": null,
+        "discount_type": null,
+        "is_featured": false,
+        "valid_till_date": "2025-10-30T00:00:00.000Z",
+        "group_size": 2,
+        "status": true,
+        "created_by": 1,
+        "created_at": "2024-10-20T08:29:12.606Z",
+        "is_deleted": false,
+        "itinerary": "<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; background: white;\"><strong><span style=\"padding: 0in;\">Day 1:&nbsp; Arrival at Singapore - Hotel\r\n            Transfer</span></strong><br>\r\n    \r\n    Fly from Shahjalal International Airport, Dhaka to Changi International\r\n    Airport, Singapore. Upon arrival at the airport our local representative will\r\n    transfer you to the hotel with private transfer.&nbsp;</p><p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; background: white;\"><strong style=\"box-sizing: border-box; border: 0px solid rgb(238, 238, 238); --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(33,150,243,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Food:</strong><span style=\"color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><span>&nbsp;</span>Breakfast: No, Lunch: No, Dinner: No</span></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; background: white;\"><strong><span style=\"padding: 0in;\">Day 2: Visit Universal Studios Singapore</span></strong></p><p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; background: white;\">Starting from 10AM -7PM, Go beyond the screen and Ride The\r\n    Movies™ at Universal Studios Singapore. Only here can you experience\r\n    cutting-edge rides, shows, and attractions based on your favorite blockbuster\r\n    films and television series, including TRANSFORMERS The Ride: The Ultimate 3D\r\n    Battle, Shrek 4-D Adventure, Madagascar: A Crate Adventure, Jurassic Park\r\n    Rapids Adventure, and more! Enter the thrilling world of movie magic as you\r\n    Ride the Movies on roller coasters and other movie-themed attractions. Be\r\n    dazzled and delighted by an immersive entertainment experience that brings the\r\n    silver screen to life.<br>\r\n    At the evening, free time. Overnight stay at the hotel.<br>\r\n    <strong style=\"box-sizing: border-box; border: 0px solid rgb(238, 238, 238); --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(33,150,243,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Food:</strong><span style=\"color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><span>&nbsp;</span>Breakfast: Yes, Lunch: No, Dinner: No</span></p><p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; background: white;\"><strong><span style=\"padding: 0in;\">Day 3: Full Day Sightseeing at Sentosa</span></strong><br>\r\n    \r\n    Breakfast at the hotel. 1400 Hrs. Proceed to Sentosa Tour (Cable Car + Sea\r\n    Aquarium + Wings of the Time). Please wait at the hotel lobby for pick up as\r\n    per scheduled time. After completing the tour you will be dropped to the hotel.</p><p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; background: white;\"><strong style=\"box-sizing: border-box; border: 0px solid rgb(238, 238, 238); --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(33,150,243,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Food:</strong><span style=\"color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><span>&nbsp;</span>Breakfast: yes, Lunch: No, Dinner: No</span>\r\n    <br>\r\n    <strong><span style=\"padding: 0in;\">Day 4: Singapore Hotel - Return to Dhaka</span></strong><br>\r\n    \r\n    After having breakfast at the hotel, our representative will pick you up from\r\n    the hotel to drop you to the airport to catch the next flight to Dhaka</p><p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; background: white;\"><strong style=\"box-sizing: border-box; border: 0px solid rgb(238, 238, 238); --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(33,150,243,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Food:</strong><span style=\"color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><span>&nbsp;</span>Breakfast: yes, Lunch: No, Dinner: No</span></p>\r\n\r\n",
+        "cancellation_policy": "<p><br></p>",
+        "tax": "Excluded",
+        "general_condition": "<p><br></p>",
+        "installment": "<p><br></p>",
+        "b2b_adult_price": "46500.00",
+        "b2b_child_price": null,
+        "b2c_adult_price": "46500.00",
+        "b2c_child_price": null,
+        "b2b_discount": "0.00",
+        "b2c_discount": "0.00",
+        "b2b_discount_type": "PERCENTAGE",
+        "b2c_discount_type": "PERCENTAGE",
+        "type": "both",
+        "city_name": "Singapore",
+        "country_name": "SINGAPORE",
+        "photos": [
+            {
+                "id": 170,
+                "photo": "https://images.unsplash.com/photo-1595290429614-88ba93221dba?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 171,
+                "photo": "https://images.unsplash.com/flagged/photo-1573460503891-d0f3a0803f38?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 172,
+                "photo": "https://images.unsplash.com/photo-1528076225979-12893c7d55e4?q=80&w=1391&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 173,
+                "photo": "https://images.unsplash.com/photo-1558289675-f8a783516e7b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ],
+        "include_services": [
+            {
+                "id": 339,
+                "title": "Hotel Accommodation"
+            },
+            {
+                "id": 340,
+                "title": "Daily Buffet Breakfast at Hotel"
+            },
+            {
+                "id": 341,
+                "title": "Meal Included as per our itinerary"
+            },
+            {
+                "id": 342,
+                "title": "Airport to Hotel transfers on private Basis"
+            },
+            {
+                "id": 343,
+                "title": "English Speaking Guide Service"
+            },
+            {
+                "id": 344,
+                "title": "All Tours and sightseeing as per the itinerary."
+            },
+            {
+                "id": 345,
+                "title": "Full day Sentosa (Cable Car, 4D adventure (Choice of 1 of any 3 attraction), Image of Singapore & Madam Tussauds & Wings of Time)"
+            },
+            {
+                "id": 346,
+                "title": "Universal Studios Singapore"
+            }
+        ],
+        "exclude_services": [
+            {
+                "id": 347,
+                "title": "Visas & Travel Tax"
+            },
+            {
+                "id": 348,
+                "title": "International Airfare"
+            },
+            {
+                "id": 349,
+                "title": "Departure COVID Test"
+            },
+            {
+                "id": 350,
+                "title": "Tips to Guide & Driver"
+            },
+            {
+                "id": 351,
+                "title": "Any meals are other than those mentioned in Menu."
+            },
+            {
+                "id": 352,
+                "title": "Any portage at border and hotels, tips, insurance, wine, mineral water, telephone charges, and all items of personal nature."
+            },
+            {
+                "id": 353,
+                "title": "Expenses caused by factors beyond our control like rail and flight delays, roadblocks, and vehicle mal-functions, political disturbances etc."
+            },
+            {
+                "id": 354,
+                "title": "Any services not specifically mentioned in the inclusions."
+            },
+            {
+                "id": 355,
+                "title": "If City / Resort Fees / Tourist taxes are applicable then the same will be Payable directly at hotel /Apartment."
+            },
+            {
+                "id": 356,
+                "title": "Sightseeing Entrance fee "
+            }
+        ],
+        "highlight_services": [
+            {
+                "id": 357,
+                "title": "Day 1:  Arrival at Singapore - Hotel Transfer "
+            },
+            {
+                "id": 358,
+                "title": "Day 2: Visit Universal Studios Singapore"
+            },
+            {
+                "id": 359,
+                "title": "Day 3: Full Day Sightseeing at Sentosa "
+            },
+            {
+                "id": 360,
+                "title": "Day 4: Singapore Hotel - Return to Dhaka "
+            }
+        ],
+        "reviews": {
+            "data": [],
+            "total": "0"
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "The request is OK",
+    "data": {
+        "id": 108,
+        "city_id": 1015,
+        "title": "Experience Penang with Kuala Lumpur: 5 Day 4 Night",
+        "details": null,
+        "tour_type": "international",
+        "duration": 5,
+        "adult_price": null,
+        "child_price": null,
+        "discount": null,
+        "discount_type": null,
+        "is_featured": false,
+        "valid_till_date": "2024-10-30T00:00:00.000Z",
+        "group_size": 2,
+        "status": true,
+        "created_by": 1,
+        "created_at": "2024-10-17T12:10:56.675Z",
+        "is_deleted": false,
+        "itinerary": "<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><strong><span style=\"padding: 0in; font-size: 16px;\">Day 1 Penang Airport to Penang Hotel private car&nbsp; - Free Day</span></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><span style=\"font-size: 16px;\">After arriving at the airport our representative will\r\n        pick you up and transfer to Penang Hotel by private car. reaching at the Penang\r\n        Hotel, check in at the hotel and take rest of the day&nbsp;for your own\r\n        leisure.</span></p><p class=\"Default\" style=\"margin: 0in 0in 0px; font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; color: black; text-align: justify;\"><strong>Food: </strong>Breakfast: No, Lunch:\r\n    No, Dinner: No </p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><span style=\"font-size: 16px;\">&nbsp;</span><br><strong><span style=\"padding: 0in; font-size: 16px;\">Day 2 Penang – Half Day Sightseeing</span></strong></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><span style=\"font-size: 16px;\">After breakfast our representative will pick you up\r\n        for a half day city tour at Penang. This tour includes some of\r\n        the&nbsp;evident&nbsp;landmarks like colonial Fort Cornwallis, Chinese clan\r\n        temple Khoo Kongsi and Indian-style Kapitan Keling Mosque. Other notable\r\n        religious sites include the Chinese Goddess of Mercy Temple, the Buddhist Kek\r\n        Lok Si Temple and Hindu Sri Mahamariamman Temple.&nbsp;Overnight stay at\r\n        Penang.</span></p>\r\n\r\n<p class=\"Default\" style=\"margin: 0in 0in 0px; font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; color: black; text-align: justify;\"><strong>Food: </strong>Breakfast: Yes, Lunch:\r\n    No, Dinner: No</p><p class=\"Default\" style=\"margin: 0in 0in 0px; font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; color: black; text-align: justify;\"><br></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><strong><span style=\"padding: 0in; font-size: 16px;\">Day 3 Penang Hotel to Kuala Lumpur hotel transfer Kuala Lumpur –\r\n            Free Day</span></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><span style=\"font-size: 16px;\">Check out from the hotel. Our driver will pick you up\r\n        from your hotel and transfer to Penang bus park. Then&nbsp;you will be\r\n        transferred to Kuala Lumpur bus stand by bus. After reaching at the Kuala\r\n        Lumpur Bus stand you will be transferred to Kuala Lumpur hotel by private car.\r\n        After reaching at the Penang Hotel, check in at the hotel and rest of the day\r\n        is for your own purpose.</span></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><span style=\"font-size: 16px;\"><strong>Food: </strong>Breakfast: Yes, Lunch:\r\n    No, Dinner: No</span></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><span style=\"font-size: 16px;\"><br></span></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><strong><span style=\"padding: 0in; font-size: 16px;\">Day 4 Kuala Lumpur Hotel – Half Day Sightseeing</span></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><span style=\"font-size: 16px;\">After having breakfast at the hotel. Our driver will\r\n        pick you up for Half Day Sightseeing. You will explore Mardeka Square, National\r\n        Mosque, KL Tower, Twin Tower etc.</span></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><span style=\"font-size: 16px;\"><strong>Food: </strong>Breakfast: Yes, Lunch:\r\n    No, Dinner: No</span></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><span style=\"font-size: 16px;\"><br></span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"> <strong>Day 5 : Departure- Transfer from Kuala Lumpur Hotel to Kuala Lumpur Airport</strong></p>\r\n\r\n\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><span style=\"font-size: 16px;\">After having breakfast at the hotel, rest of the day\r\n        is for your own leisure. At the evening you will be dropped to Kuala Lumpur\r\n        airport to catch the next flight to Dhaka</span></p><p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white; font-size: 15px;\"><span style=\"font-size: 16px;\"><strong>Food: </strong>Breakfast: Yes, Lunch:\r\n    No, Dinner: No</span></p>",
+        "cancellation_policy": "<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">Your\r\n    confirmation of the&nbsp;Holiday will ensure that you have read the\r\n    Cancellation Policy thoroughly and accepted it.</p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">15\r\n    days prior to the travel date - 50 % of total holiday cost.</p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">10\r\n    days prior to the travel date - 75 % of total holiday cost.</p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">05\r\n    days prior to the travel date &nbsp; - 100% of holiday cost will be\r\n    non-refundable.</p>",
+        "tax": "Excluded",
+        "general_condition": "<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><strong><u><span style=\"font-size: 16px; color: rgb(34, 34, 34);\">THE FOLLOWING\r\n                POINTS ARE TO BE NOTED FOR CHILD RATE</span></u></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px 0.5in; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><span style=\"font-size: 16px; color: rgb(34, 34, 34);\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children\r\n        above 10+ years will be charged 100% as per Adult Rate (EPSR)</span></p>\r\n\r\n<p style=\"margin-right: 0in; margin-left: 0in; font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"color: rgb(34, 34, 34);\"><br>\r\n    </span><strong><u><span style=\"color: black;\">THE FOLLOWING\r\n                POINTS ARE TO BE NOTED FOR CHILD RATE</span></u></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px 0.5in; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"font-size: 16px; color: black;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children\r\n        above 10+ years will be charged 100% as per Adult Rate (EPSR)</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px 0.5in; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"font-size: 16px; color: black;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children\r\n        of 5+ to 10 sharing parent’s room will be charged as per CWB or CNB</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px 0.5in; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"font-size: 16px; color: black;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children\r\n        below 5 years Complimentary</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><u><span style=\"font-size: 16px; color: black;\">(Hotels are very strict with the child\r\n            policy. Please carry the age proof so that it can be produced when asked for)</span></u></p>",
+        "installment": "<p><br></p>",
+        "b2b_adult_price": "21600.00",
+        "b2b_child_price": null,
+        "b2c_adult_price": "21600.00",
+        "b2c_child_price": null,
+        "b2b_discount": "0.00",
+        "b2c_discount": "0.00",
+        "b2b_discount_type": "PERCENTAGE",
+        "b2c_discount_type": "PERCENTAGE",
+        "type": "both",
+        "city_name": "Penang",
+        "country_name": "MALAYSIA",
+        "photos": [
+            {
+                "id": 143,
+                "photo": "https://images.unsplash.com/photo-1542031362-d686938a306b?q=80&w=1533&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 144,
+                "photo": "https://images.unsplash.com/photo-1590756568559-1e1f15180d39?q=80&w=1634&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 145,
+                "photo": "https://images.unsplash.com/photo-1593703171188-bc0ffca60cd3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 146,
+                "photo": "https://plus.unsplash.com/premium_photo-1700957231909-91d78770f5f7?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ],
+        "include_services": [
+            {
+                "id": 223,
+                "title": "Hotel Accommodation"
+            },
+            {
+                "id": 224,
+                "title": "Daily Buffet Breakfast at Hotel"
+            },
+            {
+                "id": 225,
+                "title": "Meal Included as per our itinerary"
+            },
+            {
+                "id": 226,
+                "title": "Airport to Hotel transfers on private Basis"
+            },
+            {
+                "id": 227,
+                "title": "English Speaking Guide Service"
+            },
+            {
+                "id": 228,
+                "title": "All Tours and sightseeing as per the itinerary."
+            },
+            {
+                "id": 229,
+                "title": "Half-Day Kuala Lumpur City Tour  - 4 Hour"
+            },
+            {
+                "id": 230,
+                "title": "Half-Day City Tour in Penang"
+            }
+        ],
+        "exclude_services": [
+            {
+                "id": 231,
+                "title": "Visas & Travel Tax"
+            },
+            {
+                "id": 232,
+                "title": "International Airfare"
+            },
+            {
+                "id": 233,
+                "title": "Departure COVID Test"
+            },
+            {
+                "id": 234,
+                "title": "Tips to Guide & Driver"
+            },
+            {
+                "id": 235,
+                "title": "Any meals are other than those mentioned in Menu."
+            },
+            {
+                "id": 236,
+                "title": "Any portage at border and hotels, tips, insurance, wine, mineral water, telephone charges, and all items of personal nature."
+            },
+            {
+                "id": 237,
+                "title": "Expenses caused by factors beyond our control like rail and flight delays, roadblocks, and vehicle mal-functions, political disturbances etc."
+            },
+            {
+                "id": 238,
+                "title": "Any services not specifically mentioned in the inclusions."
+            },
+            {
+                "id": 239,
+                "title": "If City / Resort Fees / Tourist taxes are applicable then the same will be Payable directly at hotel /Apartment."
+            },
+            {
+                "id": 240,
+                "title": "Sightseeing Entrance fee "
+            },
+            {
+                "id": 241,
+                "title": "Tourism Tax RM 10 p/r/n & State Tax RM 3 p/r/n"
+            }
+        ],
+        "highlight_services": [
+            {
+                "id": 242,
+                "title": "Day 1: Penang Airport to Penang Hotel private car  "
+            },
+            {
+                "id": 243,
+                "title": "Day 2:  Penang – Half Day Sightseeing"
+            },
+            {
+                "id": 244,
+                "title": "Day 3: Penang Hotel to Kuala Lumpur hotel transfer Kuala Lumpur – Free Day"
+            },
+            {
+                "id": 245,
+                "title": "Day 4: Kuala Lumpur Hotel – Half Day Sightseeing"
+            },
+            {
+                "id": 246,
+                "title": " Day 5 : Departure- Transfer from Kuala Lumpur Hotel to Kuala Lumpur Airport"
+            }
+        ],
+        "reviews": {
+            "data": [],
+            "total": "0"
+        }
+    }
+}

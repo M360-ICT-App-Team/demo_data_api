@@ -1,0 +1,123 @@
+{
+    "success": true,
+    "message": "The request is OK",
+    "data": {
+        "id": 120,
+        "city_id": 9652,
+        "title": "Large Sea Beach In Cox’s Bazar",
+        "details": null,
+        "tour_type": "domestic",
+        "duration": 3,
+        "adult_price": null,
+        "child_price": null,
+        "discount": null,
+        "discount_type": null,
+        "is_featured": false,
+        "valid_till_date": "2025-03-30T00:00:00.000Z",
+        "group_size": 2,
+        "status": true,
+        "created_by": 17,
+        "created_at": "2024-12-12T09:53:21.978Z",
+        "is_deleted": false,
+        "itinerary": "<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px;\"><strong>Day\r\n        1: &nbsp;</strong><strong><span style=\"font-family: Roboto-Regular, &quot;serif&quot;; background: white;\">Cox’s Bazar Sea\r\n            Beach</span></strong></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px;\"><span style=\"font-family: Roboto-Regular, &quot;serif&quot;; background: white;\">Early Morning\r\n        arrive Cox’s Bazar Breakfast and short beach tour. After lunch, visit Laboni\r\n        Beach &amp; Sugnadha Beach, Overnight in Hotel.</span></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px;\"><strong>Food:</strong> Breakfast: No, Lunch: No, Dinner:\r\n    Yes </p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px;\"><strong>Day\r\n        2: &nbsp;</strong><strong><span style=\"font-family: Roboto-Regular, &quot;serif&quot;; background: white;\">Marine Drive</span></strong></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px;\"><span style=\"font-family: Roboto-Regular, &quot;serif&quot;; background: white;\">After Breakfast\r\n        start visit Inani Beach &amp; Himchori Falls after visit back to hotel,\r\n        Overnight in Hotel.</span></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px;\"><strong>Food:</strong> Breakfast: Yes, Lunch: No,\r\n    Dinner:Yes</p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px;\"><strong>Day\r\n        3: &nbsp;</strong><strong><span style=\"font-family: Roboto-Regular, &quot;serif&quot;; background: white;\">Checkout From\r\n            Hotel</span></strong></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px;\"><span style=\"font-family: Roboto-Regular, &quot;serif&quot;; background: white;\">After Breakfast\r\n        check out at hotel then transfer to Bus Counter For Dhaka.</span></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px;\"><strong>Food:</strong> Breakfast: Yes, Lunch: No,\r\n    Dinner: No</p>",
+        "cancellation_policy": "<p><br></p>",
+        "tax": "Included",
+        "general_condition": "<p><br></p>",
+        "installment": "<p><br></p>",
+        "b2b_adult_price": "5500.00",
+        "b2b_child_price": null,
+        "b2c_adult_price": "5500.00",
+        "b2c_child_price": null,
+        "b2b_discount": "0.00",
+        "b2c_discount": "0.00",
+        "b2b_discount_type": "PERCENTAGE",
+        "b2c_discount_type": "PERCENTAGE",
+        "type": "both",
+        "city_name": "Cox's Bazar",
+        "country_name": "BANGLADESH",
+        "photos": [
+            {
+                "id": 214,
+                "photo": "https://images.unsplash.com/photo-1587222318667-31212ce2828d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 215,
+                "photo": "https://images.unsplash.com/photo-1582650625119-3a31f8fa2699?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 216,
+                "photo": "https://images.unsplash.com/photo-1619177383949-f03975e50b19?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ],
+        "include_services": [
+            {
+                "id": 477,
+                "title": "Non A/C Bus Tickets"
+            },
+            {
+                "id": 478,
+                "title": "Hotel Accommodation  AC (Twin/Double Share)"
+            },
+            {
+                "id": 479,
+                "title": "This vehicle will also change sector wise."
+            },
+            {
+                "id": 480,
+                "title": "Note: The mentioned hotels in the itinerary or similar type/category of hotels will be provided"
+            }
+        ],
+        "exclude_services": [
+            {
+                "id": 481,
+                "title": "Tips to Guide & Driver"
+            },
+            {
+                "id": 482,
+                "title": "Any meals are other than those mentioned in Menu."
+            },
+            {
+                "id": 483,
+                "title": "Any portage at border and hotels, tips, insurance, wine, mineral water, telephone charges, and all items of personal nature."
+            },
+            {
+                "id": 484,
+                "title": "Expenses caused by factors beyond our control like rail and flight delays, roadblocks, and vehicle mal-functions, political disturbances etc."
+            },
+            {
+                "id": 485,
+                "title": "Any services not specifically mentioned in the inclusions."
+            },
+            {
+                "id": 486,
+                "title": "If City / Resort Fees / Tourist taxes are applicable then the same will be Payable directly at hotel /Apartment."
+            }
+        ],
+        "highlight_services": [
+            {
+                "id": 487,
+                "title": "Journey Start:  At night by bus Dhaka to Cox’s Bazar"
+            },
+            {
+                "id": 488,
+                "title": "Day 1:  Cox’s Bazar Sea Beach "
+            },
+            {
+                "id": 489,
+                "title": "Day 2:  Marine Drive"
+            },
+            {
+                "id": 490,
+                "title": "Day 3:  Checkout From Hotel"
+            },
+            {
+                "id": 491,
+                "title": "Journey End:  At Morning or Night in Dhaka"
+            }
+        ],
+        "reviews": {
+            "data": [],
+            "total": "0"
+        }
+    }
+}

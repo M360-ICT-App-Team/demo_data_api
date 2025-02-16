@@ -1,0 +1,143 @@
+{
+    "success": true,
+    "message": "The request is OK",
+    "data": {
+        "id": 123,
+        "city_id": 44,
+        "title": "Vibrant Bangkok Getaway: 2 Nights & 3 Days",
+        "details": null,
+        "tour_type": "international",
+        "duration": 3,
+        "adult_price": null,
+        "child_price": null,
+        "discount": null,
+        "discount_type": null,
+        "is_featured": false,
+        "valid_till_date": "2025-04-29T00:00:00.000Z",
+        "group_size": 2,
+        "status": true,
+        "created_by": 17,
+        "created_at": "2025-01-07T10:33:49.132Z",
+        "is_deleted": false,
+        "itinerary": "<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\"><strong>Day\r\n        1: &nbsp;: &nbsp;</strong><strong>Arrival- Transfer from Bangkok Airport to\r\n        Hotel&nbsp;</strong><strong></strong></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; text-align: justify;\"><span style=\"background: white;\">Flight from Dhaka to Bangkok\r\n        Suvarnabhumi Airport by your preferred airlines and Meet our representative\r\n        (Meeting Point) and leave for Bangkok Hotel. Check-in Hotel.</span></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; text-align: justify;\"><strong>Food:</strong> Breakfast:\r\n    Yes, Lunch: No, Dinner: No </p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><strong><span style=\"font-size: 16px;\">Day 2: </span></strong><strong><span style=\"font-size: 16px; color: black; background: lime;\">Bangkok City Tour with\r\n            Golden Buddha Temple and Marble Temple (B)</span></strong></p>\r\n\r\n<p class=\"MsoNormalCxSpMiddle\" style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 3px 0in; line-height: 130%;\"><span style=\"font-size: 16px; line-height: 130%; color: black;\">Breakfast\r\n        at hotel then Pick up from your hotel to <span>visit Temple tour with Golden Buddha Temple and Marble Temple:</span></span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 3px 0in; text-align: justify; line-height: 130%; background: white;\"><strong><span style=\"font-size: 16px; line-height: 130%; color: black;\">Golden\r\n            Buddha Temple</span></strong><span style=\"font-size: 16px; line-height: 130%; color: black;\">: Wat Traimit\r\n        Witthayaram or the Temple of the Golden Buddha stands at the junction of\r\n        Traimit, Yaowarat and Charoen Krung Roads. Just across from the main entrance\r\n        of Wat Traimit is the Odeon circle and the archway to Chinatown Bangkok. The\r\n        Golden Buddha is 3.98 m high and 3.13 m wide from knee to knee. It’s cast in\r\n        solid gold weighing 5 tons! The statue has a very unusual history.</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 3px 0in; text-align: justify; line-height: 130%; background: white;\"><strong><span style=\"font-size: 16px; line-height: 130%; color: black;\">Marble\r\n            Temple</span></strong><span style=\"font-size: 16px; line-height: 130%; color: black;\">: Often referred to as the\r\n        “marble temple” in guidebooks, this architectural gem features a magnificent\r\n        Buddha image, which is a copy of the highly revered Phra Buddhajinaraja, and a\r\n        beautiful beamed ceiling in a dark red and gold. Back in hotel and </span><span style=\"font-size: 16px; line-height: 130%; color: black;\">Overnight\r\n        in Bangkok</span></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; text-align: justify;\"><strong>Food:</strong> Breakfast:\r\n    Yes, Lunch: No, Dinner: No </p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; text-align: justify;\"><strong>Day 03: <span style=\"background: white;\">Bangkok\r\n            Hotel Transfer </span></strong><strong><span style=\"background: white;\">Bangkok Suvarnabhumi International Airport.</span></strong></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 10px; text-align: justify;\"><span style=\"background: white;\">Breakfast at Hotel and\r\n        transfer to Bangkok Suvarnabhumi International Airport.</span></p>",
+        "cancellation_policy": "<p><br></p>",
+        "tax": "Excluded",
+        "general_condition": "<p><br></p>",
+        "installment": "<p><br></p>",
+        "b2b_adult_price": "13500.00",
+        "b2b_child_price": null,
+        "b2c_adult_price": "13500.00",
+        "b2c_child_price": null,
+        "b2b_discount": "0.00",
+        "b2c_discount": "0.00",
+        "b2b_discount_type": "FLAT",
+        "b2c_discount_type": "FLAT",
+        "type": "both",
+        "city_name": "Bangkok",
+        "country_name": "THAILAND",
+        "photos": [
+            {
+                "id": 225,
+                "photo": "https://images.unsplash.com/photo-1589932896376-5244c8898269?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 226,
+                "photo": "https://images.unsplash.com/photo-1592117984084-15bc78969be2?q=80&w=1568&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 227,
+                "photo": "https://images.unsplash.com/photo-1549978449-b513e7da5612?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 228,
+                "photo": "https://images.unsplash.com/photo-1586098311577-520120ba3df3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ],
+        "include_services": [
+            {
+                "id": 529,
+                "title": "Hotel Accommodation"
+            },
+            {
+                "id": 530,
+                "title": "Daily Buffet Breakfast at Hotel"
+            },
+            {
+                "id": 531,
+                "title": "Meal Included as per our itinerary"
+            },
+            {
+                "id": 532,
+                "title": "Airport to Hotel transfers on private Basis"
+            },
+            {
+                "id": 533,
+                "title": "English Speaking Guide Service"
+            },
+            {
+                "id": 534,
+                "title": "All Tours and sightseeing as per the itinerary."
+            },
+            {
+                "id": 535,
+                "title": "City Temple Tour (SIC)"
+            }
+        ],
+        "exclude_services": [
+            {
+                "id": 536,
+                "title": "Visas & Travel Tax"
+            },
+            {
+                "id": 537,
+                "title": "International Airfare"
+            },
+            {
+                "id": 538,
+                "title": "Departure COVID Test"
+            },
+            {
+                "id": 539,
+                "title": "Tips to Guide & Driver"
+            },
+            {
+                "id": 540,
+                "title": "Any meals are other than those mentioned in Menu."
+            },
+            {
+                "id": 541,
+                "title": "Any portage at border and hotels, tips, insurance, wine, mineral water, telephone charges, and all items of personal nature."
+            },
+            {
+                "id": 542,
+                "title": "Expenses caused by factors beyond our control like rail and flight delays, roadblocks, and vehicle mal-functions, political disturbances etc."
+            },
+            {
+                "id": 543,
+                "title": "Any services not specifically mentioned in the inclusions."
+            },
+            {
+                "id": 544,
+                "title": "If City / Resort Fees / Tourist taxes are applicable then the same will be Payable directly at hotel /Apartment."
+            }
+        ],
+        "highlight_services": [
+            {
+                "id": 545,
+                "title": "Day 1: Arrival- Transfer from Bangkok Airport to Hotel "
+            },
+            {
+                "id": 546,
+                "title": "Day 2: Bangkok City Tour - Golden Buddha Temple + Marble Temple"
+            },
+            {
+                "id": 547,
+                "title": "Day 3: Departure- Transfer from Bangkok Hotel to Airport"
+            }
+        ],
+        "reviews": {
+            "data": [],
+            "total": "0"
+        }
+    }
+}

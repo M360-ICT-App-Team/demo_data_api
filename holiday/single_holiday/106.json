@@ -1,0 +1,143 @@
+{
+    "success": true,
+    "message": "The request is OK",
+    "data": {
+        "id": 106,
+        "city_id": 198,
+        "title": "Convenient of Kuala Lumpur: 3D",
+        "details": null,
+        "tour_type": "international",
+        "duration": 3,
+        "adult_price": null,
+        "child_price": null,
+        "discount": null,
+        "discount_type": null,
+        "is_featured": false,
+        "valid_till_date": "2025-06-30T00:00:00.000Z",
+        "group_size": 2,
+        "status": true,
+        "created_by": 1,
+        "created_at": "2024-10-12T18:12:45.300Z",
+        "is_deleted": false,
+        "itinerary": "<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;;\"><strong><span style=\"font-size: 13px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(51, 51, 51);\">Day 1: Kuala Lumpur\r\n            Iternational Airport - Hotel (Kuala Lumpur)</span></strong><span style=\"font-size: 13px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(51, 51, 51);\"><br>\r\n        Welcome to <span style=\"background: white;\">the airport our representative will\r\n            pick you up and transfer you to the hotel for check-in. Once the check-in is\r\n            done, you will freshen up in the hotel.</span></span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;;\"><strong>Food: </strong>Breakfast: No, Lunch: No, Dinner: No</p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;;\"><strong><span style=\"font-size: 13px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(51, 51, 51);\">Day 02: Kuala Lumpur\r\n            Half- Day City Tour&nbsp;</span></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"font-size: 13px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(51, 51, 51);\">After\r\n        having breakfast at hotel, be ready for the Half&nbsp;Day City Tour. Experience\r\n        the best of KL in this half-day tour that’s packed full of must-see places\r\n        around this vibrant city. If you are looking to see what some of the best\r\n        attractions KL has to offer, hop on this four&nbsp;- hours tour and get a taste\r\n        of everything!</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;;\"><strong><span style=\"font-size: 13px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(51, 51, 51);\">Suggested Sightseeing :</span></strong></p>\r\n\r\n<ul type=\"disc\" style=\"margin-bottom: 0in;\">\r\n    <li class=\"MsoNormal\" style=\"margin: 0in 0in 0px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; color: rgb(51, 51, 51);\"><span style=\"font-size: 13px; font-family: Arial, &quot;sans-serif&quot;;\">National Mosque</span></li>\r\n    <li class=\"MsoNormal\" style=\"margin: 0in 0in 0px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; color: rgb(51, 51, 51);\"><span style=\"font-size: 13px; font-family: Arial, &quot;sans-serif&quot;;\">Merdeka Square</span></li>\r\n    <li class=\"MsoNormal\" style=\"margin: 0in 0in 0px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; color: rgb(51, 51, 51);\"><span style=\"font-size: 13px; font-family: Arial, &quot;sans-serif&quot;;\">Petrona Twin Tower (KLCC)</span></li>\r\n    <li class=\"MsoNormal\" style=\"margin: 0in 0in 0px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; color: rgb(51, 51, 51);\"><span style=\"font-size: 13px; font-family: Arial, &quot;sans-serif&quot;;\">Masjid Jamek</span></li>\r\n</ul>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;;\"><strong>Food: </strong>Breakfast: Yes, Lunch: No,\r\n    Dinner: No<span style=\"font-size: 13px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(51, 51, 51);\"> KL Tower</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;;\"><strong><span style=\"font-size: 13px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(51, 51, 51);\">Day 03: Departure-\r\n            Transfer from Kuala Lumpur Hotel to Kuala Lumpur Airport</span></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;;\"><span style=\"font-size: 13px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(51, 51, 51);\">Check out from the hotel. Our\r\n        driver will pick you up from your hotel with plenty of time before your flight\r\n        to Dhaka.</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 10px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;;\"><strong>Food: </strong>Breakfast: yes, Lunch: No, Dinner: No</p>",
+        "cancellation_policy": "<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">Your\r\n    confirmation of the&nbsp;Holiday will ensure that you have read the Cancellation\r\n    Policy thoroughly and accepted it.</p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">15\r\n    days prior to the travel date - 50 % of total holiday cost.</p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">10\r\n    days prior to the travel date - 75 % of total holiday cost.</p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">05\r\n    days prior to the travel date &nbsp; - 100% of holiday cost will be\r\n    non-refundable.</p>",
+        "tax": "Excluded",
+        "general_condition": "<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><strong><u><span style=\"font-size: 16px; color: rgb(34, 34, 34);\">THE FOLLOWING\r\n                POINTS ARE TO BE NOTED FOR CHILD RATE</span></u></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px 0.5in; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify; background: white;\"><span style=\"font-size: 16px; color: rgb(34, 34, 34);\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children\r\n        above 10+ years will be charged 100% as per Adult Rate (EPSR)</span></p>\r\n\r\n<p style=\"margin-right: 0in; margin-left: 0in; font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"color: rgb(34, 34, 34);\"><br>\r\n    </span><strong><u><span style=\"color: black;\">THE FOLLOWING\r\n                POINTS ARE TO BE NOTED FOR CHILD RATE</span></u></strong></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px 0.5in; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"font-size: 16px; color: black;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children\r\n        above 10+ years will be charged 100% as per Adult Rate (EPSR)</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px 0.5in; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"font-size: 16px; color: black;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children\r\n        of 5+ to 10 sharing parent’s room will be charged as per CWB or CNB</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px 0.5in; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><span style=\"font-size: 16px; color: black;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children\r\n        below 5 years Complimentary</span></p>\r\n\r\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0px; font-size: 15px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; text-align: justify;\"><u><span style=\"font-size: 16px; color: black;\">(Hotels are very strict with the child\r\n            policy. Please carry the age proof so that it can be produced when asked for)</span></u></p>\r\n\r\n<p style=\"font-size: 16px; font-family: &quot;Times New Roman&quot;, &quot;serif&quot;; margin: 0in 0in 0px; text-align: justify; line-height: 150%;\">&nbsp;<br></p>",
+        "installment": "<p><br></p>",
+        "b2b_adult_price": "12590.00",
+        "b2b_child_price": null,
+        "b2c_adult_price": "12590.00",
+        "b2c_child_price": null,
+        "b2b_discount": "0.00",
+        "b2c_discount": "0.00",
+        "b2b_discount_type": "PERCENTAGE",
+        "b2c_discount_type": "PERCENTAGE",
+        "type": "both",
+        "city_name": "Kuala Lumpur",
+        "country_name": "MALAYSIA",
+        "photos": [
+            {
+                "id": 133,
+                "photo": "https://images.unsplash.com/photo-1606143705650-f13bbe894b78?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 134,
+                "photo": "https://images.unsplash.com/photo-1587500892601-9d1ebfaa05be?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 135,
+                "photo": "https://images.unsplash.com/photo-1580193505111-99c82bcea7a6?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": 136,
+                "photo": "https://images.unsplash.com/photo-1585031039436-16a906da2f05?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ],
+        "include_services": [
+            {
+                "id": 182,
+                "title": "Hotel Accommodation"
+            },
+            {
+                "id": 183,
+                "title": "Daily Buffet Breakfast at Hotel"
+            },
+            {
+                "id": 184,
+                "title": "Meal Included as per our itinerary"
+            },
+            {
+                "id": 185,
+                "title": "Airport to Hotel transfers on private Basis"
+            },
+            {
+                "id": 186,
+                "title": "English Speaking Guide Service"
+            },
+            {
+                "id": 187,
+                "title": "All Tours and sightseeing as per the itinerary."
+            },
+            {
+                "id": 188,
+                "title": "Half-Day Kuala Lumpur City Tour  - 4 Hour"
+            }
+        ],
+        "exclude_services": [
+            {
+                "id": 189,
+                "title": "Visas & Travel Tax"
+            },
+            {
+                "id": 190,
+                "title": "International Airfare"
+            },
+            {
+                "id": 191,
+                "title": "Departure COVID Test"
+            },
+            {
+                "id": 192,
+                "title": "Tips to Guide & Driver"
+            },
+            {
+                "id": 193,
+                "title": "Any meals are other than those mentioned in Menu."
+            },
+            {
+                "id": 194,
+                "title": "Any portage at border and hotels, tips, insurance, wine, mineral water, telephone charges, and all items of personal nature."
+            },
+            {
+                "id": 195,
+                "title": "Expenses caused by factors beyond our control like rail and flight delays, roadblocks, and vehicle mal-functions, political disturbances etc."
+            },
+            {
+                "id": 196,
+                "title": "Any services not specifically mentioned in the inclusions."
+            },
+            {
+                "id": 197,
+                "title": "If City / Resort Fees / Tourist taxes are applicable then the same will be Payable directly at hotel /Apartment."
+            }
+        ],
+        "highlight_services": [
+            {
+                "id": 198,
+                "title": "Day 01: Dhaka – Kuala Lumpur Int. Airport – Kuala Lumpur Hotel"
+            },
+            {
+                "id": 199,
+                "title": "Day 02: Kuala Lumpur Half Day City Tour "
+            },
+            {
+                "id": 200,
+                "title": "Day 03 : Departure- Transfer from Kuala Lumpur Hotel to Kuala Lumpur Airport"
+            }
+        ],
+        "reviews": {
+            "data": [],
+            "total": "0"
+        }
+    }
+}
