@@ -24,9 +24,9 @@
             "group_size": 2,
             "city_name": "Bangkok",
             "country_name": "THAILAND",
-            "photo": "tour-package/1738828355360-761129056.webp",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/1374377/pexels-photo-1374377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 14,
+            "average_rating": "4.8"
         },
         {
             "id": 126,
@@ -49,9 +49,9 @@
             "group_size": 2,
             "city_name": "Kathmandu",
             "country_name": "NEPAL",
-            "photo": "tour-package/1737198273893-960322323.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/764689/pexels-photo-764689.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 84,
+            "average_rating": "4.5"
         },
         {
             "id": 125,
@@ -74,9 +74,9 @@
             "group_size": 2,
             "city_name": "Pattaya",
             "country_name": "THAILAND",
-            "photo": "tour-package/1736251496051-240146816.jpg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/12818116/pexels-photo-12818116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 56,
+            "average_rating": "4.6"
         },
         {
             "id": 124,
@@ -99,9 +99,9 @@
             "group_size": 2,
             "city_name": "Phuket",
             "country_name": "THAILAND",
-            "photo": "tour-package/1736250891227-507712919.jpg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/3355777/pexels-photo-3355777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 35,
+            "average_rating": "3.2"
         },
         {
             "id": 123,
@@ -124,9 +124,9 @@
             "group_size": 2,
             "city_name": "Bangkok",
             "country_name": "THAILAND",
-            "photo": "tour-package/1736246028800-760275724.jpg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/3121347/pexels-photo-3121347.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 48,
+            "average_rating": "4.7"
         },
         {
             "id": 121,
@@ -149,9 +149,9 @@
             "group_size": 11,
             "city_name": "Sajek",
             "country_name": "BANGLADESH",
-            "photo": "tour-package/1734002188201-629080937.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/2852395/pexels-photo-2852395.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 81,
+            "average_rating": "4.6"
         },
         {
             "id": 120,
@@ -174,9 +174,9 @@
             "group_size": 2,
             "city_name": "Cox's Bazar",
             "country_name": "BANGLADESH",
-            "photo": "tour-package/1733997201822-108505377.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/4090625/pexels-photo-4090625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 49,
+            "average_rating": "4.1"
         },
         {
             "id": 118,
@@ -199,9 +199,9 @@
             "group_size": 11,
             "city_name": "Sajek",
             "country_name": "BANGLADESH",
-            "photo": "tour-package/1733993154546-818238670.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/28672449/pexels-photo-28672449/free-photo-of-scenic-mountain-resort-with-traditional-huts.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 32,
+            "average_rating": "4.5"
         },
         {
             "id": 117,
@@ -224,9 +224,9 @@
             "group_size": 11,
             "city_name": "Sajek",
             "country_name": "BANGLADESH",
-            "photo": "tour-package/1733993112036-878010326.jpg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/30615807/pexels-photo-30615807/free-photo-of-scenic-bamboo-hut-overlooking-lush-mountains.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 26,
+            "average_rating": "4.8"
         },
         {
             "id": 116,
@@ -249,9 +249,9 @@
             "group_size": 11,
             "city_name": "Sajek",
             "country_name": "BANGLADESH",
-            "photo": "tour-package/1733900512616-12703100.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/2132043/pexels-photo-2132043.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 15,
+            "average_rating": "4.2"
         },
         {
             "id": 115,
@@ -274,9 +274,9 @@
             "group_size": 9,
             "city_name": "Gangtok",
             "country_name": "INDIA",
-            "photo": "tour-package/1730539991775-528075024.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/14916663/pexels-photo-14916663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 28,
+            "average_rating": "3.9"
         },
         {
             "id": 114,
@@ -299,9 +299,9 @@
             "group_size": 2,
             "city_name": "Singapore",
             "country_name": "SINGAPORE",
-            "photo": "tour-package/1729420838241-528260029.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/2434270/pexels-photo-2434270.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 56,
+            "average_rating": "4.9"
         },
         {
             "id": 113,
@@ -324,9 +324,9 @@
             "group_size": 2,
             "city_name": "Singapore",
             "country_name": "SINGAPORE",
-            "photo": "tour-package/1729420209751-612778002.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/27087197/pexels-photo-27087197/free-photo-of-marina-bay-sands-at-dusk.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 84,
+            "average_rating": "4.8"
         },
         {
             "id": 112,
@@ -349,9 +349,9 @@
             "group_size": 2,
             "city_name": "Singapore",
             "country_name": "SINGAPORE",
-            "photo": "tour-package/1729407344337-287643159.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/13551306/pexels-photo-13551306.jpeg",
+            "review_count": 38,
+            "average_rating": "4.8"
         },
         {
             "id": 111,
@@ -374,9 +374,9 @@
             "group_size": 2,
             "city_name": "Singapore",
             "country_name": "SINGAPORE",
-            "photo": "tour-package/1729405957348-440594745.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/2573995/pexels-photo-2573995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 26,
+            "average_rating": "4.9"
         },
         {
             "id": 110,
@@ -399,9 +399,9 @@
             "group_size": 2,
             "city_name": "Kuala Lumpur",
             "country_name": "MALAYSIA",
-            "photo": "tour-package/1729170824130-289900134.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/93750/pexels-photo-93750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 45,
+            "average_rating": "4.8"
         },
         {
             "id": 109,
@@ -424,9 +424,9 @@
             "group_size": 2,
             "city_name": "Langkawi",
             "country_name": "MALAYSIA",
-            "photo": "tour-package/1729168789073-826175940.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/7955214/pexels-photo-7955214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 102,
+            "average_rating": "4.7"
         },
         {
             "id": 108,
@@ -449,9 +449,9 @@
             "group_size": 2,
             "city_name": "Penang",
             "country_name": "MALAYSIA",
-            "photo": "tour-package/1729167226213-319285515.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/34401/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 45,
+            "average_rating": "4.6"
         },
         {
             "id": 107,
@@ -474,9 +474,9 @@
             "group_size": 2,
             "city_name": "Kuala Lumpur",
             "country_name": "MALAYSIA",
-            "photo": "tour-package/1729164349813-257187041.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/67559/kuala-lumpur-petronas-twin-towers-malaysia-klcc-67559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 78,
+            "average_rating": "4.7"
         },
         {
             "id": 106,
@@ -499,9 +499,9 @@
             "group_size": 2,
             "city_name": "Kuala Lumpur",
             "country_name": "MALAYSIA",
-            "photo": "tour-package/1728756765192-77799132.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/4847105/pexels-photo-4847105.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 45,
+            "average_rating": "4.9"
         },
         {
             "id": 105,
@@ -524,9 +524,9 @@
             "group_size": 10,
             "city_name": "Bangkok",
             "country_name": "THAILAND",
-            "photo": "tour-package/1728467228406-120472986.jpg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/130161/pexels-photo-130161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 78,
+            "average_rating": "4.3"
         },
         {
             "id": 103,
@@ -549,9 +549,9 @@
             "group_size": 2,
             "city_name": "Bangkok",
             "country_name": "THAILAND",
-            "photo": "tour-package/1736323299841-506782253.jpg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/1647110/pexels-photo-1647110.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 43,
+            "average_rating": "3.8"
         },
         {
             "id": 102,
@@ -574,9 +574,9 @@
             "group_size": 2,
             "city_name": "Bangkok",
             "country_name": "THAILAND",
-            "photo": "tour-package/1728324798596-101984870.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/14507003/pexels-photo-14507003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 84,
+            "average_rating": "4.2"
         },
         {
             "id": 100,
@@ -599,9 +599,9 @@
             "group_size": 2,
             "city_name": "Bangkok",
             "country_name": "THAILAND",
-            "photo": "tour-package/1727794616355-633606553.jpeg",
-            "review_count": 0,
-            "average_rating": "0.00"
+            "photo": "https://images.pexels.com/photos/2331044/pexels-photo-2331044.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "review_count": 26,
+            "average_rating": "4.6"
         }
     ]
 }
