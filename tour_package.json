@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "image_urls": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0bLm28SgPpGI-5XegGfM3GyG7rjyBHrUuQ&s",
+      "https://www.alphonsostories.com/AlphonSoStoriesImages/BlogImage/Insiders-Thimphu-lg-cover.jpg",
+      "https://mediaim.expedia.com/destination/1/899c17d67109678728a8eedd155abb77.jpg?impolicy=fcrop&w=450&h=280&q=medium"
+    ],
+    "review": [],
+    "faq": [],
+    "durationday": [
+      {
+        "id": 101,
+        "day": "Day 1: Arrive in Thimphu",
+        "days_content": "Arrive in Thimphu via Paro International Airport and check-in at Hotel Druk for an overnight stay.",
+        "tour_packages": 1
+      },
+      {
+        "id": 102,
+        "day": "Day 2: Thimphu Exploration",
+        "days_content": "Half-day tour of Thimphu, visiting Tashichho Dzong and Buddha Dordenma.\nEnjoy a traditional Bhutanese cultural show.\nAccommodation: Hotel Druk",
+        "tour_packages": 1
+      },
+      {
+        "id": 103,
+        "day": "Day 3: Return to Paro",
+        "days_content": "Check-out from the hotel and transfer to Paro for your flight back.",
+        "tour_packages": 1
+      }
+    ],
+    "name": "Magical Thimphu",
+    "description": "Experience a captivating 3-day getaway to Thimphu, Bhutan’s capital. Upon arrival via Paro, check into Hotel Druk for a comfortable stay. Explore Thimphu’s cultural landmarks, including Tashichho Dzong and the majestic Buddha Dordenma statue. Enjoy a traditional Bhutanese cultural show, immersing yourself in local traditions. On departure day, transfer to Paro for your flight, concluding a memorable Bhutanese adventure.",
+    "provider": "World Famous Tours & Travels",
+    "category": "Basic",
+    "included": "02 nights accommodation\nAirport pick-up and drop-off\nHalf-day (6hrs) city tour",
+    "excluded": "Visa fee\nBreakfast\nReturn Air ticket",
+    "duration": 3,
+    "price": 18000,
+    "image": "https://www.alphonsostories.com/AlphonSoStoriesImages/BlogImage/Insiders-Thimphu-lg-cover.jpg",
+    "activity": "Leisure Trip",
+    "physical": "Guided Tour",
+    "groupsize": 2,
+    "age": 15,
+    "location": "Thimphu, Bhutan"
+  },
+  {
+    "id": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1595432371138-372502c81e0e",
+      "https://images.pexels.com/photos/6693200/pexels-photo-6693200.jpeg",
+      "https://cdn.pixabay.com/photo/2016/11/29/06/20/bhutan-1867563_1280.jpg"
+    ],
+    "review": [],
+    "faq": [],
+    "durationday": [
+      {
+        "id": 104,
+        "day": "Day 1: Arrive in Paro",
+        "days_content": "Arrive at Paro International Airport and check-in at Tashi Namgay Resort for an overnight stay.",
+        "tour_packages": 2
+      },
+      {
+        "id": 105,
+        "day": "Day 2: Paro Valley Tour",
+        "days_content": "Half-day tour of Paro, visiting Paro Dzong and Kyichu Lhakhang.\nHike to a nearby viewpoint for stunning valley views.\nAccommodation: Tashi Namgay Resort",
+        "tour_packages": 2
+      },
+      {
+        "id": 106,
+        "day": "Day 3: Depart from Paro",
+        "days_content": "Check-out from the hotel and catch your flight from Paro International Airport.",
+        "tour_packages": 2
+      }
+    ],
+    "name": "Paro Valley Escape",
+    "description": "Discover the serene beauty of Paro, Bhutan, in this 3-day adventure. Arrive and settle into Tashi Namgay Resort. Explore Paro’s highlights, including the historic Paro Dzong and the ancient Kyichu Lhakhang temple. Enjoy a scenic hike with breathtaking views of the Paro Valley. Conclude your trip with a smooth departure from Paro International Airport.",
+    "provider": "World Famous Tours & Travels",
+    "category": "Basic",
+    "included": "02 nights accommodation\nAirport pick-up and drop-off\nHalf-day (6hrs) city tour",
+    "excluded": "Visa fee\nBreakfast\nReturn Air ticket",
+    "duration": 3,
+    "price": 18000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0bLm28SgPpGI-5XegGfM3GyG7rjyBHrUuQ&s",
+    "activity": "Leisure Trip",
+    "physical": "Guided Tour",
+    "groupsize": 2,
+    "age": 15,
+    "location": "Paro, Bhutan"
+  },
+  {
+    "id": 3,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.pexels.com/photos/6693199/pexels-photo-6693199.jpeg",
+      "https://cdn.pixabay.com/photo/2017/08/07/14/02/bhutan-2603893_1280.jpg"
+    ],
+    "review": [],
+    "faq": [],
+    "durationday": [
+      {
+        "id": 107,
+        "day": "Day 1: Arrive in Punakha",
+        "days_content": "Arrive in Paro and transfer to Punakha, check-in at Zhingkham Resort for an overnight stay.",
+        "tour_packages": 3
+      },
+      {
+        "id": 108,
+        "day": "Day 2: Punakha Exploration",
+        "days_content": "Half-day tour of Punakha, visiting Punakha Dzong and Chimi Lhakhang.\nEnjoy a riverside walk along the Mo Chhu.\nAccommodation: Zhingkham Resort",
+        "tour_packages": 3
+      },
+      {
+        "id": 109,
+        "day": "Day 3: Return to Paro",
+        "days_content": "Check-out and transfer to Paro for your return flight.",
+        "tour_packages": 3
+      }
+    ],
+    "name": "Punakha Cultural Retreat",
+    "description": "Embark on a 3-day journey to Punakha, Bhutan’s historic heart. After arriving in Paro, transfer to Punakha and settle into Zhingkham Resort. Explore the magnificent Punakha Dzong and the fertility temple, Chimi Lhakhang. Take a scenic walk along the Mo Chhu river. Wrap up your trip with a transfer back to Paro for departure.",
+    "provider": "World Famous Tours & Travels",
+    "category": "Basic",
+    "included": "02 nights accommodation\nAirport pick-up and drop-off\nHalf-day (6hrs) city tour",
+    "excluded": "Visa fee\nBreakfast\nReturn Air ticket",
+    "duration": 3,
+    "price": 18000,
+    "image": "https://mediaim.expedia.com/destination/1/899c17d67109678728a8eedd155abb77.jpg?impolicy=fcrop&w=450&h=280&q=medium",
+    "activity": "Leisure Trip",
+    "physical": "Guided Tour",
+    "groupsize": 2,
+    "age": 15,
+    "location": "Punakha, Bhutan"
+  },
+  {
+    "id": 4,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1595432371138-372502c81e0e",
+      "https://images.pexels.com/photos/6693201/pexels-photo-6693201.jpeg",
+      "https://cdn.pixabay.com/photo/2016/11/29/06/20/bhutan-1867564_1280.jpg"
+    ],
+    "review": [],
+    "faq": [],
+    "durationday": [
+      {
+        "id": 110,
+        "day": "Day 1: Arrive in Bumthang",
+        "days_content": "Arrive in Paro and fly to Bumthang, check-in at Swiss Guest House for an overnight stay.",
+        "tour_packages": 4
+      },
+      {
+        "id": 111,
+        "day": "Day 2: Bumthang Valley Tour",
+        "days_content": "Half-day tour of Bumthang, visiting Jakar Dzong and Jambay Lhakhang.\nExplore the serene Tang Valley.\nAccommodation: Swiss Guest House",
+        "tour_packages": 4
+      },
+      {
+        "id": 112,
+        "day": "Day 3: Depart from Bumthang",
+        "days_content": "Check-out and fly back to Paro for your return flight.",
+        "tour_packages": 4
+      }
+    ],
+    "name": "Bumthang Spiritual Journey",
+    "description": "Immerse yourself in the spiritual heart of Bhutan with a 3-day Bumthang tour. Arrive via Paro and fly to Bumthang, staying at Swiss Guest House. Visit the historic Jakar Dzong and the ancient Jambay Lhakhang, then explore the tranquil Tang Valley. Conclude your journey with a flight back to Paro for departure.",
+    "provider": "World Famous Tours & Travels",
+    "category": "Basic",
+    "included": "02 nights accommodation\nAirport pick-up and drop-off\nHalf-day (6hrs) city tour",
+    "excluded": "Visa fee\nBreakfast\nReturn Air ticket",
+    "duration": 3,
+    "price": 18000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCu215ry_K1r62d50E-o-gp0HQGpV4cmBSDw&s",
+    "activity": "Leisure Trip",
+    "physical": "Guided Tour",
+    "groupsize": 2,
+    "age": 15,
+    "location": "Bumthang, Bhutan"
+  },
+  {
+    "id": 5,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1596554514763-7b61421c7e70",
+      "https://images.pexels.com/photos/6693197/pexels-photo-6693197.jpeg",
+      "https://cdn.pixabay.com/photo/2017/08/07/14/02/bhutan-2603894_1280.jpg"
+    ],
+    "review": [],
+    "faq": [],
+    "durationday": [
+      {
+        "id": 113,
+        "day": "Day 1: Arrive in Phuentsholing",
+        "days_content": "Arrive in Phuentsholing via road from India, check-in at Druk Hotel for an overnight stay.",
+        "tour_packages": 5
+      },
+      {
+        "id": 114,
+        "day": "Day 2: Phuentsholing Sightseeing",
+        "days_content": "Half-day tour of Phuentsholing, visiting Zangtho Pelri Lhakhang and the Bhutan Gate.\nEnjoy a local market visit.\nAccommodation: Druk Hotel",
+        "tour_packages": 5
+      },
+      {
+        "id": 115,
+        "day": "Day 3: Depart from Phuentsholing",
+        "days_content": "Check-out and depart via road or transfer to Paro for flight.",
+        "tour_packages": 5
+      }
+    ],
+    "name": "Phuentsholing Gateway",
+    "description": "Experience Bhutan’s border town of Phuentsholing in this 3-day tour. Arrive via road and check into Druk Hotel. Explore Zangtho Pelri Lhakhang and the iconic Bhutan Gate, followed by a vibrant local market visit. Conclude your trip with a departure via road or transfer to Paro for your flight.",
+    "provider": "World Famous Tours & Travels",
+    "category": "Basic",
+    "included": "02 nights accommodation\nAirport pick-up and drop-off\nHalf-day (6hrs) city tour",
+    "excluded": "Visa fee\nBreakfast\nReturn Air ticket",
+    "duration": 3,
+    "price": 18000,
+    "image": "https://indroyc.com/wp-content/uploads/2021/06/bhutan-gate-phuentsholing.jpg",
+    "activity": "Leisure Trip",
+    "physical": "Guided Tour",
+    "groupsize": 2,
+    "age": 15,
+    "location": "Phuentsholing, Bhutan"
+  },
+  {
+    "id": 6,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.pexels.com/photos/6693202/pexels-photo-6693202.jpeg",
+      "https://cdn.pixabay.com/photo/2016/11/29/06/20/bhutan-1867565_1280.jpg"
+    ],
+    "review": [],
+    "faq": [],
+    "durationday": [
+      {
+        "id": 116,
+        "day": "Day 1: Arrive in Haa Valley",
+        "days_content": "Arrive in Paro and transfer to Haa Valley, check-in at a local guesthouse for an overnight stay.",
+        "tour_packages": 6
+      },
+      {
+        "id": 117,
+        "day": "Day 2: Haa Valley Exploration",
+        "days_content": "Half-day tour of Haa, visiting Lhakhang Karpo and Haa Dzong.\nEnjoy a nature walk in the valley.\nAccommodation: Local guesthouse",
+        "tour_packages": 6
+      },
+      {
+        "id": 118,
+        "day": "Day 3: Return to Paro",
+        "days_content": "Check-out and transfer to Paro for your return flight.",
+        "tour_packages": 6
+      }
+    ],
+    "name": "Haa Valley Serenity",
+    "description": "Discover the tranquil Haa Valley in this 3-day Bhutanese adventure. Arrive via Paro and settle into a cozy guesthouse. Explore Lhakhang Karpo and Haa Dzong, followed by a scenic nature walk. Conclude your trip with a transfer back to Paro for your departure.",
+    "provider": "World Famous Tours & Travels",
+    "category": "Basic",
+    "included": "02 nights accommodation\nAirport pick-up and drop-off\nHalf-day (6hrs) city tour",
+    "excluded": "Visa fee\nBreakfast\nReturn Air ticket",
+    "duration": 3,
+    "price": 18000,
+    "image": "https://indroyc.com/wp-content/uploads/2021/06/bhutan-gate-phuentsholing.jpg",
+    "activity": "Leisure Trip",
+    "physical": "Guided Tour",
+    "groupsize": 2,
+    "age": 15,
+    "location": "Haa Valley, Bhutan"
+  },
+  {
+    "id": 7,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1595432371138-372502c81e0e",
+      "https://images.pexels.com/photos/6693196/pexels-photo-6693196.jpeg",
+      "https://cdn.pixabay.com/photo/2017/08/07/14/02/bhutan-2603895_1280.jpg"
+    ],
+    "review": [],
+    "faq": [],
+    "durationday": [
+      {
+        "id": 119,
+        "day": "Day 1: Arrive in Gangtey",
+        "days_content": "Arrive in Paro and transfer to Gangtey, check-in at Dewachen Hotel for an overnight stay.",
+        "tour_packages": 7
+      },
+      {
+        "id": 120,
+        "day": "Day 2: Gangtey Nature Tour",
+        "days_content": "Half-day tour of Gangtey, visiting Gangtey Monastery and Phobjikha Valley.\nSpot black-necked cranes (seasonal).\nAccommodation: Dewachen Hotel",
+        "tour_packages": 7
+      },
+      {
+        "id": 121,
+        "day": "Day 3: Return to Paro",
+        "days_content": "Check-out and transfer to Paro for your return flight.",
+        "tour_packages": 7
+      }
+    ],
+    "name": "Gangtey Nature Escape",
+    "description": "Explore the pristine Phobjikha Valley in Gangtey with this 3-day tour. Arrive via Paro and stay at Dewachen Hotel. Visit Gangtey Monastery and witness the beauty of the valley, with a chance to spot black-necked cranes (seasonal). Return to Paro for your departure, cherishing Bhutan’s natural splendor.",
+    "provider": "World Famous Tours & Travels",
+    "category": "Basic",
+    "included": "02 nights accommodation\nAirport pick-up and drop-off\nHalf-day (6hrs) city tour",
+    "excluded": "Visa fee\nBreakfast\nReturn Air ticket",
+    "duration": 3,
+    "price": 18000,
+    "image": "https://www.experiencetravelgroup.com/reposit/20190424134920.jpg",
+    "activity": "Leisure Trip",
+    "physical": "Guided Tour",
+    "groupsize": 2,
+    "age": 15,
+    "location": "Gangtey, Bhutan"
+  },
+  {
+    "id": 8,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.pexels.com/photos/6693203/pexels-photo-6693203.jpeg",
+      "https://cdn.pixabay.com/photo/2016/11/29/06/20/bhutan-1867566_1280.jpg"
+    ],
+    "review": [],
+    "faq": [],
+    "durationday": [
+      {
+        "id": 122,
+        "day": "Day 1: Arrive in Trongsa",
+        "days_content": "Arrive in Paro and transfer to Trongsa, check-in at Yangkhil Resort for an overnight stay.",
+        "tour_packages": 8
+      },
+      {
+        "id": 123,
+        "day": "Day 2: Trongsa Heritage Tour",
+        "days_content": "Half-day tour of Trongsa, visiting Trongsa Dzong and Ta Dzong Museum.\nEnjoy a local cultural experience.\nAccommodation: Yangkhil Resort",
+        "tour_packages": 8
+      },
+      {
+        "id": 124,
+        "day": "Day 3: Return to Paro",
+        "days_content": "Check-out and transfer to Paro for your return flight.",
+        "tour_packages": 8
+      }
+    ],
+    "name": "Trongsa Historical Journey",
+    "description": "Uncover the rich history of Trongsa in this 3-day Bhutan tour. Arrive via Paro and stay at Yangkhil Resort. Explore the grand Trongsa Dzong and the fascinating Ta Dzong Museum, followed by a cultural experience. Return to Paro for your departure, enriched by Bhutan’s heritage.",
+    "provider": "World Famous Tours & Travels",
+    "category": "Basic",
+    "included": "02 nights accommodation\nAirport pick-up and drop-off\nHalf-day (6hrs) city tour",
+    "excluded": "Visa fee\nBreakfast\nReturn Air ticket",
+    "duration": 3,
+    "price": 18000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDk0MXSydfzMjgk4PzF0I_CCJbdBLRkGpC1w&s",
+    "activity": "Leisure Trip",
+    "physical": "Guided Tour",
+    "groupsize": 2,
+    "age": 15,
+    "location": "Trongsa, Bhutan"
+  }
+]
