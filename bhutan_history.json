@@ -1,6 +1,8 @@
 {
   "id": 1,
   "title": "All About Bhutan",
+  "success": true,
+  "message": "Fetched all data",
   "description": "Explore the rich cultural heritage, breathtaking nature, and unforgettable travel experiences in Bhutan.",
   "sections": [
     {
