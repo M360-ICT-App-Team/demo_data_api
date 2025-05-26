@@ -1,1 +1,43 @@
-bhu
+{
+  "id": 1,
+  "title": "All About Bhutan",
+  "description": "Explore the rich cultural heritage, breathtaking nature, and unforgettable travel experiences in Bhutan.",
+  "sections": [
+    {
+      "id": 1,
+      "title": "History",
+      "content": "Bhutan's recorded history begins in the 8th century when Guru Padmasambhava introduced Buddhism. It was unified in the 17th century under Zhabdrung Ngawang Namgyal. The country transitioned to a constitutional monarchy in 2008.",
+      "image_url": "https://www.web.destinybhutan.com/wp-content/uploads/2023/09/zhabdrung-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Nature",
+      "content": "Bhutan is a biodiversity hotspot with 70% forest cover. National parks and sanctuaries protect species like the snow leopard, takin, golden langur, and black-necked crane.",
+      "image_url": "https://www.web.destinybhutan.com/wp-content/uploads/2023/09/Meconopsis_gakyidiana-e1694818168147.png"
+    },
+    {
+      "id": 3,
+      "title": "Geography",
+      "content": "Located in the Eastern Himalayas, Bhutan features high mountains, lush valleys, and rivers. The altitude varies from 200m in the south to over 7,000m in the north.",
+      "image_url": "https://www.web.destinybhutan.com/wp-content/uploads/2023/09/sem-scaled-1-2048x1366.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Architecture",
+      "content": "Bhutan’s architecture, featuring Dzongs, Lhakhangs, Goenpas, chortens, palaces, bridges, and vernacular housing, embodies the nation’s rich cultural heritage. These structures blend engineering excellence with aesthetic beauty.",
+      "image_url": "https://www.web.destinybhutan.com/wp-content/uploads/2023/09/sem-scaled-2-768x512.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Travel Distances",
+      "content": "Except for Gasa district, Bhutan’s 20 districts have road access despite challenging terrain. Roads are winding with frequent bends, steep slopes, and slow average speeds around 30 km/h. However, the journey offers stunning mountain, jungle, village, and monastery views.",
+      "image_url": "https://www.web.destinybhutan.com/wp-content/uploads/2023/09/Treks-Banner-scaled-1-768x512.jpg"
+    },
+     {
+      "id": 6,
+      "title": "Arts and Crafts",
+      "content": "Bhutan’s arts and crafts, integral to its tradition and spiritual life, interpret widely held values and beliefs rather than abstract beauty. This subjective process reflects a strong moral sense and often symbolizes the timeless battle of good versus evil.",
+      "image_url": "https://www.web.destinybhutan.com/wp-content/uploads/2023/09/cups-768x400.jpg"
+    }
+  ]
+}
